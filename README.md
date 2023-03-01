@@ -1,2 +1,2 @@
-# PHP Development Environmenta
+# Start PHP
 ## configuration
